@@ -1,0 +1,433 @@
+# key | Uzbek (Latin) | Russian | English.   Uzbek Cyrillic is made from the Latin text.   \n = new line, {0} = a value.
+ui.brand.owner	O'ZBEKISTON TEMIR YO'LLARI	ЎЗБЕКИСТОН ТЕМИР ЙЎЛЛАРИ	UZBEKISTAN RAILWAYS
+ui.brand.product	VR SIMULATOR	VR СИМУЛЯТОР	VR SIMULATOR
+role.Learner	Stajyor-payvandchi	Стажёр-сварщик	Trainee welder
+role.Instructor	Instruktor	Инструктор	Instructor
+role.Administrator	Administrator	Администратор	Administrator
+ui.back	Orqaga	Назад	Back
+ui.login.title	Tizimga kirish	Вход в систему	Sign in
+ui.login.user	Login	Логин	Login
+ui.login.password	Parol	Пароль	Password
+ui.login.enter	Kirish	Войти	Sign in
+ui.login.next	Keyingi maydon	Следующее поле	Next field
+ui.login.wrong	Login yoki parol noto'g'ri	Неверный логин или пароль	Wrong login or password
+ui.login.hint	Namuna hisob: stajyor / 1234	Учебная запись: stajyor / 1234	Sample account: stajyor / 1234
+ui.home.overall	Umumiy ballari	Общий балл	Overall score
+ui.home.attempts	Urinishlar	Попытки	Attempts
+ui.home.last	Oxirgi mashg'ulot	Последнее занятие	Last session
+ui.home.menu.title	Bo'limlar	Разделы	Sections
+ui.home.logout	Chiqish	Выйти	Sign out
+ui.home.tab.practice	O'quv amaliyoti	Учебная практика	Practice
+ui.home.tab.prepare	Imtihonga tayyorgarlik	Подготовка к экзамену	Exam preparation
+ui.home.tab.exam	Imtihon topshirish	Сдача экзамена	Exam
+ui.home.soon	Tez kunda	Скоро	Soon
+ui.home.soon.title	Keyingi amaliyot	Следующая практика	Next practice
+ui.home.soon.text	Bu modul hali tayyorlanmoqda.	Этот модуль ещё готовится.	This module is still being prepared.
+ui.home.tag.done	Tugallangan	Завершено	Completed
+ui.home.tag.new	Yangi	Новое	New
+ui.home.kind	Simulyator  •  {0} daqiqa	Симулятор  •  {0} минут	Simulator  •  {0} minutes
+ui.home.best	Eng yaxshi natija	Лучший результат	Best result
+ui.home.retry	Qayta urinish	Повторить	Try again
+ui.home.start	Boshlash	Начать	Start
+ui.menu.title	MENU	МЕНЮ	MENU
+ui.menu.guide	Qo'llanma	Руководство	Guide
+ui.menu.guide.hint	Amaliyot bosqichlari ketma-ketligi	Последовательность этапов практики	The stages of the practice in order
+ui.menu.analytics	Analitika	Аналитика	Analytics
+ui.menu.analytics.hint	Natijalar va xatolar tarixi	Результаты и история ошибок	Results and history of mistakes
+ui.menu.info	Ma'lumot	Информация	Information
+ui.menu.info.hint	Topshiriq, chizma va baholash mezonlari	Задание, чертёж и критерии оценки	Task, drawing and marking
+ui.menu.settings	Sozlamalar	Настройки	Settings
+ui.menu.settings.hint	Til, ovoz, grafika, VR-qulaylik	Язык, звук, графика, VR-комфорт	Language, sound, graphics, comfort
+practice.mag.title	CO2 muhitida yarim-avtomat payvandlash — tavr (T) birikma	Полуавтоматическая сварка в среде CO2 — тавровое (Т) соединение	Semi-automatic welding in CO2 — T joint
+practice.mag.short	CO2 yarim-avtomat payvandlash	Полуавтоматическая сварка CO2	MAG welding in CO2
+ui.brief.drawing	Chizma	Чертёж	Drawing
+ui.brief.leg	katet {0:0.#}–{1:0.#} mm	катет {0:0.#}–{1:0.#} мм	leg {0:0.#}–{1:0.#} mm
+ui.brief.length	chok uzunligi {0:0} mm, bir tomondan	длина шва {0:0} мм, с одной стороны	seam length {0:0} mm, one side
+ui.brief.material	Material: St3, qalinligi 8 mm.\nSim: Sv-08G2S, 1.2 mm. Gaz: CO2.	Материал: Ст3, толщина 8 мм.\nПроволока: Св-08Г2С, 1,2 мм. Газ: CO2.	Material: St3 steel, 8 mm.\nWire: Sv-08G2S, 1.2 mm. Gas: CO2.
+ui.brief.task	Texnik topshiriq	Техническое задание	Technical task
+ui.brief.voltage	Kuchlanish	Напряжение	Voltage
+ui.brief.current	Tok kuchi	Сила тока	Current
+ui.brief.speed	Sim uzatish tezligi	Скорость подачи проволоки	Wire feed speed
+ui.brief.flow	Gaz sarfi	Расход газа	Gas flow
+ui.brief.stickout	Sopladan masofa	Вылет проволоки	Stick-out
+ui.brief.angle	Gorelka burchagi	Угол горелки	Torch angle
+ui.brief.travel	Yurish tezligi	Скорость сварки	Travel speed
+ui.brief.tacks	Prixvatkalar soni	Количество прихваток	Tack welds
+ui.brief.note	Qiymatlar vaqtinchalik: buyurtmachi savolnomasi bo'yicha aniqlashtiriladi.	Значения предварительные: уточняются по опроснику заказчика.	The values are provisional until the customer's questionnaire is answered.
+ui.brief.marks	Baholash mezonlari	Критерии оценки	Marking
+ui.brief.pass	O'tish balli: {0:0}%.\nMe'yoriy vaqt: {1:0} daqiqa.\nKritik xavfsizlik buzilishi bo'lsa, amaliyot o'tmagan hisoblanadi.	Проходной балл: {0:0}%.\nНормативное время: {1:0} минут.\nПри критическом нарушении безопасности практика не засчитывается.	Pass mark: {0:0}%.\nTime allowed: {1:0} minutes.\nA critical safety violation fails the practice.
+ui.brief.begin	Amaliyotni boshlash	Начать практику	Begin the practice
+score.Safety	Xavfsizlik	Безопасность	Safety
+score.Technique	Texnika	Техника	Technique
+score.Quality	Sifat	Качество	Quality
+score.Time	Vaqt	Время	Time
+score.Safety.hint	Himoya vositalari, kabel, gaz baloni bo'yicha qoidabuzarliklar	Нарушения по СИЗ, кабелю, газовому баллону	Violations with protective equipment, cables, the gas cylinder
+score.Technique.hint	V/A rejimi, gaz sozlamalari, burchak, tezlik, masofa	Режим В/А, настройки газа, угол, скорость, вылет	Volts and amperes, gas settings, angle, speed, stick-out
+score.Quality.hint	Chok geometriyasi va nuqsonlar soni	Геометрия шва и количество дефектов	Seam geometry and number of defects
+score.Time.hint	Bosqichlarni me'yoriy vaqt ichida bajarish	Выполнение этапов в нормативное время	Finishing within the time allowed
+score.Safety.advice	Xavfsizlik: ishni boshlashdan oldin kabel, yerga ulash va balon mahkamlanishini har doim tekshiring; niqobsiz yoy yoqmang.	Безопасность: перед работой всегда проверяйте кабель, заземление и крепление баллона; не зажигайте дугу без маски.	Safety: always check the cable, the earth and the cylinder restraint before work; never strike an arc without the mask.
+score.Technique.advice	Texnika: rejimni topshiriqdagi diapazonda saqlang, gorelka burchagi va sopladan masofani bir xil ushlang.	Техника: держите режим в диапазоне задания, сохраняйте угол горелки и вылет постоянными.	Technique: keep the mode inside the task's range and hold the torch angle and stick-out steady.
+score.Quality.advice	Sifat: chokni uzluksiz, bir xil tezlikda yuriting; gaz himoyasi yetarli ekaniga ishonch hosil qiling.	Качество: ведите шов непрерывно, с постоянной скоростью; убедитесь в достаточной газовой защите.	Quality: run the seam without stopping at an even speed; make sure the gas shield is sufficient.
+score.Time.advice	Vaqt: bosqichlar ketma-ketligini yodlab oling, tayyorgarlikni tezroq bajaring.	Время: запомните последовательность этапов, выполняйте подготовку быстрее.	Time: learn the order of the stages and get through the preparation faster.
+ui.active.running	Amaliyot davom etmoqda	Практика выполняется	The practice is running
+ui.active.finished	Amaliyot yakunlandi	Практика завершена	The practice is finished
+ui.active.now	Joriy bosqich	Текущий этап	Current stage
+ui.active.where.room	Bu bosqich shu xonada bajariladi.	Этот этап выполняется в этой комнате.	This stage is done in this room.
+ui.active.where.hall	Bu bosqich payvandlash sexida bajariladi: ko'k eshik orqali o'ting.	Этот этап выполняется в сварочном цехе: пройдите через синюю дверь.	This stage is done in the welding hall: go through the blue door.
+ui.active.home	Bosh sahifa	Главная	Home
+ui.guide.title	VR payvandlash qo'llanmasi — bosqichlar	Руководство по VR-сварке — этапы	VR welding guide — the stages
+ui.results.all	Barcha o'quvchilar natijalari	Результаты всех обучающихся	Results of all learners
+ui.results.mine	Mening natijalarim	Мои результаты	My results
+ui.results.date	Sana	Дата	Date
+ui.results.user	O'quvchi	Обучающийся	Learner
+ui.results.total	Jami	Итог	Total
+ui.results.verdict	Xulosa	Вывод	Verdict
+ui.results.none	Hali yakunlangan urinishlar yo'q	Завершённых попыток пока нет	No finished attempts yet
+ui.results.passed	O'tdi	Сдано	Passed
+ui.results.failed	O'tmadi	Не сдано	Failed
+ui.settings.crumb	TIZIM SOZLAMALARI  •  VR KONFIGURATSIYA	НАСТРОЙКИ СИСТЕМЫ  •  VR КОНФИГУРАЦИЯ	SYSTEM SETTINGS  •  VR CONFIGURATION
+ui.settings.groups	SOZLAMA GURUHLARI	ГРУППЫ НАСТРОЕК	SETTING GROUPS
+ui.settings.detail	TANLANGAN GURUH TAFSILOTI	ПАРАМЕТРЫ ВЫБРАННОЙ ГРУППЫ	SELECTED GROUP
+ui.settings.group.Language	Til	Язык	Language
+ui.settings.group.Sound	Ovoz	Звук	Sound
+ui.settings.group.Graphics	Grafika	Графика	Graphics
+ui.settings.group.Comfort	VR-qulaylik	VR-комфорт	VR comfort
+ui.settings.group.Controller	Kontroller	Контроллер	Controller
+ui.settings.group.Account	Hisob	Учётная запись	Account
+ui.settings.group.About	Tizim haqida	О системе	About
+ui.settings.reset	Standart holatga qaytarish	Вернуть стандартные	Restore defaults
+ui.settings.save	SAQLASH	СОХРАНИТЬ	SAVE
+ui.settings.lang.text	Ekrandagi yozuvlar tili	Язык надписей на экране	Language of the text
+ui.settings.lang.voice	Ovozli yordamchi tili	Язык голосового помощника	Language of the voice assistant
+ui.settings.lang.note	Yozuvlar tili «Saqlash» bosilganda darhol o'zgaradi. Ovozli yordamchi hali ulanmagan.	Язык надписей меняется сразу после «Сохранить». Голосовой помощник ещё не подключён.	The text language changes as soon as you save. The voice assistant is not connected yet.
+ui.settings.sound.master	Umumiy ovoz	Общая громкость	Master volume
+ui.settings.sound.voice	Yordamchi tanlash	Голос помощника	Assistant voice
+ui.settings.sound.male	ERKAK	МУЖСКОЙ	MALE
+ui.settings.sound.female	AYOL	ЖЕНСКИЙ	FEMALE
+ui.settings.sound.assistant	Yordamchi ovozi	Громкость помощника	Assistant volume
+ui.settings.sound.effects	Effektlar ovozi	Громкость эффектов	Effects volume
+ui.settings.gfx.quality	Tasvir sifati	Качество изображения	Picture quality
+ui.settings.gfx.quality.hint	4K aniqroq, lekin qurilmaga yuk oshadi	4K чётче, но выше нагрузка на устройство	4K is sharper but heavier for the device
+ui.settings.gfx.brightness	Yorqinlik	Яркость	Brightness
+ui.settings.gfx.hdr	HDR sifati	Качество HDR	HDR
+ui.settings.vr.move	Harakatlanish turi	Способ перемещения	Movement
+ui.settings.vr.teleport	TELEPORT	ТЕЛЕПОРТ	TELEPORT
+ui.settings.vr.smooth	SILLIQ	ПЛАВНО	SMOOTH
+ui.settings.vr.turn	Burilish turi	Способ поворота	Turning
+ui.settings.vr.step	Burilish qadami	Шаг поворота	Turn step
+ui.settings.vr.step.hint	(faqat Snap uchun)	(только для Snap)	(snap turning only)
+ui.settings.vr.vignette	Komfort vinyetka kuchi	Сила комфортной виньетки	Comfort vignette
+ui.settings.vr.hand	Dominant qo'l	Ведущая рука	Dominant hand
+ui.settings.vr.left	CHAP	ЛЕВАЯ	LEFT
+ui.settings.vr.right	O'NG	ПРАВАЯ	RIGHT
+ui.settings.vr.distance	Kontrollerlar orasidagi masofa	Расстояние между контроллерами	Distance between controllers
+ui.settings.vr.focus	Ko'z fokusi	Фокус глаз	Eye focus
+ui.settings.vr.focus.hint	tanlangan ko'z uchun qiymat	значение для выбранного глаза	value for the chosen eye
+ui.settings.ctl.left	CHAP KONTROLLER	ЛЕВЫЙ КОНТРОЛЛЕР	LEFT CONTROLLER
+ui.settings.ctl.right	O'NG KONTROLLER	ПРАВЫЙ КОНТРОЛЛЕР	RIGHT CONTROLLER
+ui.settings.ctl.1	Thumbstick	Стик	Thumbstick
+ui.settings.ctl.1.left	Harakatlanish (yurish / teleport)	Перемещение (ходьба / телепорт)	Moving (walk / teleport)
+ui.settings.ctl.1.right	Burilish (Snap / silliq)	Поворот (Snap / плавно)	Turning (snap / smooth)
+ui.settings.ctl.2	Yuqori tugma (Y / B)	Верхняя кнопка (Y / B)	Upper button (Y / B)
+ui.settings.ctl.2.left	Himoya niqobini tushirish / ko'tarish	Опустить / поднять защитную маску	Lower / raise the welding mask
+ui.settings.ctl.2.right	Himoya niqobini tushirish / ko'tarish	Опустить / поднять защитную маску	Lower / raise the welding mask
+ui.settings.ctl.3	Pastki tugma (X / A)	Нижняя кнопка (X / A)	Lower button (X / A)
+ui.settings.ctl.3.left	Vazifa panelini yoniga chaqirish	Вызвать панель задания	Call the task card
+ui.settings.ctl.3.right	—	—	—
+ui.settings.ctl.4	Trigger	Триггер	Trigger
+ui.settings.ctl.4.left	Tanlash (nur bilan bosish)	Выбор (нажатие лучом)	Select (press with the ray)
+ui.settings.ctl.4.right	Tanlash; gorelkada — yoyni yoqish	Выбор; на горелке — зажечь дугу	Select; on the torch — strike the arc
+ui.settings.ctl.5	Grip	Grip	Grip
+ui.settings.ctl.5.left	Ushlab olish	Захват	Grab
+ui.settings.ctl.5.right	Ushlab olish	Захват	Grab
+ui.settings.ctl.6	Menu tugmasi	Кнопка меню	Menu button
+ui.settings.ctl.6.left	Sozlamalar oynasi	Окно настроек	Settings window
+ui.settings.ctl.6.right	— (faqat chap kontrollerda)	— (только на левом контроллере)	— (left controller only)
+ui.settings.account.none	Tizimga kirilmagan	Вход не выполнен	Not signed in
+ui.settings.account.name	Ism	Имя	Name
+ui.settings.account.role	Rol	Роль	Role
+ui.settings.about.app	Dastur	Приложение	Application
+ui.settings.about.version	Versiya	Версия	Version
+ui.settings.about.engine	Dvigatel	Движок	Engine
+ui.settings.about.device	Qurilma	Устройство	Device
+ui.task.stage	BOSQICH {0}   •   {1} / {2}	ЭТАП {0}   •   {1} / {2}	STAGE {0}   •   {1} / {2}
+ui.task.pin	Joyida qoldirish	Закрепить на месте	Pin in place
+ui.task.follow	Menga ergashsin	Следовать за мной	Follow me
+ui.alert.stage	Keyingi bosqich: {0}	Следующий этап: {0}	Next stage: {0}
+ui.alert.lost	{0}: −{1} ball	{0}: −{1} балл.	{0}: −{1} points
+ui.alert.Blocked	TAQIQLANGAN	ЗАПРЕЩЕНО	NOT ALLOWED
+ui.alert.Warning	OGOHLANTIRISH	ПРЕДУПРЕЖДЕНИЕ	WARNING
+ui.alert.FaultFound	NOSOZLIK ANIQLANDI	НЕИСПРАВНОСТЬ НАЙДЕНА	FAULT FOUND
+ui.alert.StageOpened	BOSQICH YAKUNLANDI	ЭТАП ЗАВЕРШЁН	STAGE COMPLETE
+ui.alert.Violation	QOIDABUZARLIK	НАРУШЕНИЕ	VIOLATION
+ui.alert.Info	MA'LUMOT	ИНФОРМАЦИЯ	INFORMATION
+ui.alert.Done	BAJARILDI	ВЫПОЛНЕНО	DONE
+ui.report.title	Yakuniy hisobot	Итоговый отчёт	Final report
+ui.report.time	sarflangan vaqt {0}	затраченное время {0}	time taken {0}
+ui.report.passed	AMALIYOT O'TDI	ПРАКТИКА СДАНА	PRACTICE PASSED
+ui.report.failed	AMALIYOT O'TMADI	ПРАКТИКА НЕ СДАНА	PRACTICE FAILED
+ui.report.critical	KRITIK BUZILISH — O'TMADI	КРИТИЧЕСКОЕ НАРУШЕНИЕ — НЕ СДАНО	CRITICAL VIOLATION — FAILED
+ui.report.events	Xatolar va topilgan nosozliklar	Ошибки и найденные неисправности	Mistakes and faults found
+ui.report.clean	Xatolar qayd etilmadi	Ошибок не зафиксировано	No mistakes recorded
+ui.report.more	... va yana {0} ta	... и ещё {0}	... and {0} more
+ui.report.advice	Tavsiyalar	Рекомендации	Advice
+ui.report.advice.good	Barcha yo'nalishlar bo'yicha natija yaxshi. Shu darajani saqlang.	Хороший результат по всем направлениям. Сохраняйте этот уровень.	Good results in every category. Keep it up.
+ui.report.home	Bosh sahifaga qaytish	На главную	Back to the main window
+ui.report.again	Qayta urinish	Повторить попытку	Try again
+journal.title	Joriy yo'riqlash jurnali	Журнал текущего инструктажа	Briefing journal
+journal.meta	Sana: {0}   •   Amaliyot: {1}	Дата: {0}   •   Практика: {1}	Date: {0}   •   Practice: {1}
+journal.text	1. Ishni faqat to'liq himoya vositalarida bajaring: niqob, kurtka, qo'lqop, maxsus oyoq kiyim.\n2. Apparatni yoqishdan oldin kabellar izolyatsiyasi va yerga ulashni tekshiring.\n3. Gaz baloni zanjir bilan mahkamlangan bo'lishi shart; ventilni sekin oching.\n4. Ish joyida yonuvchi narsalar bo'lmasin; o't o'chirgich qayerdaligini biling.\n5. Yoyni faqat niqob tushirilgan holda yoqing; ventilyatsiya ishlab turishi kerak.\n6. Nosozlik aniqlansa ishni to'xtating va rahbarga xabar bering.	1. Работайте только в полном комплекте СИЗ: маска, куртка, перчатки, спецобувь.\n2. Перед включением аппарата проверьте изоляцию кабелей и заземление.\n3. Газовый баллон должен быть закреплён цепью; вентиль открывайте медленно.\n4. На рабочем месте не должно быть горючих предметов; знайте, где огнетушитель.\n5. Зажигайте дугу только с опущенной маской; вентиляция должна работать.\n6. При неисправности прекратите работу и сообщите руководителю.	1. Work only in full protective equipment: mask, jacket, gloves, safety boots.\n2. Check cable insulation and earthing before switching the machine on.\n3. The gas cylinder must be chained; open its valve slowly.\n4. Keep flammable things away from the workplace; know where the extinguisher is.\n5. Strike the arc only with the mask down; the ventilation must be running.\n6. If you find a fault, stop work and report it to your supervisor.
+journal.confirm	Yo'riqnoma bilan tanishdim	С инструкцией ознакомлен	I have read the instruction
+journal.status.read	Yo'riqnomani o'qing va belgini qo'ying.	Прочитайте инструкцию и поставьте отметку.	Read the instruction and tick the box.
+journal.status.sign	Ruchkani oling va jurnaldagi sariq ramka ichiga imzo qo'ying.	Возьмите ручку и распишитесь в жёлтой рамке журнала.	Take the pen and sign inside the yellow frame in the journal.
+journal.status.signed	Imzo qo'yildi. Endi himoya vositalarini kiying.	Подпись поставлена. Теперь наденьте средства защиты.	Signed. Now put on the protective equipment.
+door.title	Payvandlash sexi	Сварочный цех	Welding hall
+door.need.journal	Jurnalga imzo qo'yilgan	Подпись в журнале поставлена	The journal is signed
+door.need.ppe	Himoya vositalari to'liq kiyilgan	СИЗ надеты полностью	All protective equipment is on
+door.enter	Sexga o'tish	Перейти в цех	Go to the hall
+ppe.Helmet	niqob	маска	mask
+ppe.Jacket	kurtka	куртка	jacket
+ppe.GloveLeft	chap qo'lqop	левая перчатка	left glove
+ppe.GloveRight	o'ng qo'lqop	правая перчатка	right glove
+ppe.BootLeft	chap oyoq kiyim	левый ботинок	left boot
+ppe.BootRight	o'ng oyoq kiyim	правый ботинок	right boot
+ppe.hint.Helmet	Niqobni boshingizga olib boring va qo'yib yuboring.	Поднесите маску к голове и отпустите.	Bring the mask to your head and let go.
+ppe.hint.Jacket	Kurtkani ko'kragingizga (yashil halqaga) olib boring va qo'yib yuboring.	Поднесите куртку к груди (к зелёному кольцу) и отпустите.	Bring the jacket to your chest (the green ring) and let go.
+ppe.hint.GloveLeft	Qo'lqopni chap qo'lingizga (yashil halqaga) olib boring va qo'yib yuboring.	Поднесите перчатку к левой руке (к зелёному кольцу) и отпустите.	Bring the glove to your left hand (the green ring) and let go.
+ppe.hint.GloveRight	Qo'lqopni o'ng qo'lingizga (yashil halqaga) olib boring va qo'yib yuboring.	Поднесите перчатку к правой руке (к зелёному кольцу) и отпустите.	Bring the glove to your right hand (the green ring) and let go.
+ppe.hint.BootLeft	Engashib, oyoq kiyimini chap boldiringizga (yashil halqaga) olib boring va qo'yib yuboring.	Наклонитесь, поднесите ботинок к левой голени (к зелёному кольцу) и отпустите.	Bend down, bring the boot to your left shin (the green ring) and let go.
+ppe.hint.BootRight	Engashib, oyoq kiyimini o'ng boldiringizga (yashil halqaga) olib boring va qo'yib yuboring.	Наклонитесь, поднесите ботинок к правой голени (к зелёному кольцу) и отпустите.	Bend down, bring the boot to your right shin (the green ring) and let go.
+ppe.hint.missed	{0} kiyilmadi. Uni tanangizdagi kerakli joyga yaqinroq olib borib, keyin qo'yib yuboring.	{0}: не надето. Поднесите ближе к нужному месту на теле и только потом отпустите.	{0} was not put on. Bring it closer to its place on your body, then let go.
+ppe.hint.worn	{0} kiyildi. Qolganlari: {1}.	{0}: надето. Осталось: {1}.	{0} is on. Still to put on: {1}.
+ppe.hint.all	Himoya vositalari to'liq kiyildi. Endi ko'k eshik orqali sexga o'ting.	СИЗ надеты полностью. Теперь пройдите в цех через синюю дверь.	All protective equipment is on. Now go to the hall through the blue door.
+guide.hub	Asosiy oyna	Главное окно	Main window
+guide.journal	Yo'riqnomani o'qing	Прочитайте инструктаж	Read the briefing
+guide.pen	Ruchka	Ручка	Pen
+guide.sign	Shu yerga imzo qo'ying	Подпишите здесь	Sign here
+guide.take	Oling: {0}	Возьмите: {0}	Take: {0}
+guide.door	Sexga eshik	Дверь в цех	Door to the hall
+guide.check	Shu yerni tekshiring	Проверьте здесь	Check here
+guide.vent	Ventilyatsiya tugmasi	Выключатель вентиляции	Extractor switch
+guide.rag	Latta — oling	Ветошь: возьмите	Rag: take it
+guide.waste	Chiqindi — oling	Отходы: возьмите	Waste: take it
+guide.bin	Chiqindi qutisi — shu yerga tashlang	Урна: бросьте сюда	Waste bin: drop it here
+guide.clamp	«Massa» qisqichi — oling	Зажим «массы»: возьмите	Earth clamp: take it
+guide.clamp.to	Shu yerga ulang	Подключите сюда	Connect it here
+guide.switch	Asosiy o'chirgich	Главный выключатель	Main switch
+guide.cover	G'altak qopqog'i — oching	Крышка катушки: откройте	Spool cover: open it
+guide.close	Qopqoqni yoping	Закройте крышку	Close the cover
+guide.spool	Yangi g'altak — oling	Новая катушка: возьмите	New spool: take it
+guide.here	Shu yerga qo'ying	Поставьте сюда	Put it here
+guide.tension	Rolik bosimi vinti	Винт прижима ролика	Roller pressure knob
+guide.feed	Sim tugmasi	Кнопка подачи проволоки	Wire button
+guide.hook	Zanjir ilgagi — oling	Крюк цепи: возьмите	Chain hook: take it
+guide.hook.to	Shu yerga iling	Зацепите здесь	Hook it here
+guide.valve	Balon ventili — yoping	Вентиль баллона: закройте	Cylinder valve: close it
+guide.flow	Gaz sarfi murvati	Регулятор расхода газа	Gas flow knob
+guide.volt	Kuchlanish (V)	Напряжение (V)	Voltage (V)
+guide.amp	Tok kuchi (A)	Ток (A)	Current (A)
+guide.speed	Sim tezligi	Скорость проволоки	Wire speed
+guide.task	Shu yerdagi tugmani bosing	Нажмите кнопку здесь	Press the button here
+guide.parts	Detallar	Детали	Parts
+guide.fixture	Stend — shu yerga qo'ying	Стенд: положите сюда	Fixture: put it here
+guide.reseat	Detalni olib, qayta o'rnating	Снимите деталь и поставьте заново	Take the part and seat it again
+guide.gclamp	Qisqich — oling	Струбцина: возьмите	Clamp: take it
+guide.square	Burchak o'lchagich — oling	Угольник: возьмите	Square: take it
+guide.gauge	Shablon — oling	Шаблон: возьмите	Gauge: take it
+guide.measure	Shu yerni o'lchang	Измерьте здесь	Measure here
+guide.torch	Gorelka — oling	Горелка: возьмите	Torch: take it
+guide.tack	Prixvatka nuqtasi	Точка прихватки	Tack point
+guide.seam	Chok — shu yerdan	Шов: отсюда	Seam: from here
+guide.rest	Joyiga qo'ying	Положите на место	Put it back here
+guide.sheet	Nazorat varag'i	Контрольный лист	Check sheet
+blocked.order	Avval joriy bosqichni yakunlang: {0}	Сначала завершите текущий этап: {0}	Finish the current stage first: {0}
+blocked.journal.login	Avval tizimga kiring va amaliyotni tanlang.	Сначала войдите в систему и выберите практику.	Sign in and choose the practice first.
+blocked.journal.read	Avval yo'riqnoma bilan tanishganingizni belgilang, so'ng imzo qo'ying.	Сначала отметьте, что ознакомились с инструкцией, затем распишитесь.	Tick that you have read the instruction first, then sign.
+blocked.door.login	Avval tizimga kiring va amaliyotni boshlang.	Сначала войдите в систему и начните практику.	Sign in and begin the practice first.
+blocked.door.journal	Sexga kirish taqiqlangan: yo'riqlash jurnaliga imzo qo'yilmagan.	Вход в цех запрещён: нет подписи в журнале инструктажа.	No entry to the hall: the briefing journal is not signed.
+blocked.door.ppe	Sexga kirish taqiqlangan: himoya vositalari to'liq emas ({0}).	Вход в цех запрещён: СИЗ не в полном комплекте ({0}).	No entry to the hall: protective equipment is incomplete ({0}).
+stage.Login.title	Tizimga kirish va amaliyotni tanlash	Вход и выбор практики	Sign in and choose the practice
+stage.Login.goal	Tizimga kiring, amaliyotni tanlang va topshiriq bilan tanishing.	Войдите в систему, выберите практику и изучите задание.	Sign in, choose the practice and read the task.
+stage.Journal.title	Yo'riqlash jurnaliga imzo chekish	Подпись в журнале инструктажа	Sign the briefing journal
+stage.Journal.goal	Xavfsizlik texnikasi yo'riqnomasi olinganini rasmiylashtirish.	Оформить получение инструктажа по технике безопасности.	Record that the safety briefing was received.
+stage.Ppe.title	Himoya vositalari va ish joyini ko'zdan kechirish	СИЗ и осмотр рабочего места	Protective equipment and workplace check
+stage.Ppe.goal	Shaxsiy xavfsizlik va ish joyi tartibini ta'minlash.	Обеспечить личную безопасность и порядок на рабочем месте.	Make yourself and the workplace safe.
+stage.Electrical.title	Apparatning elektr qismini tekshirish	Проверка электрической части аппарата	Check the electrical side of the machine
+stage.Electrical.goal	Nosoz uskunada ishlashning oldini olish.	Не допустить работы на неисправном оборудовании.	Do not work on faulty equipment.
+stage.PowerOn.title	Qurilmani yoqish va holatini tekshirish	Включение аппарата и проверка состояния	Switch the machine on and check it
+stage.PowerOn.goal	Qurilma ishga tayyor va soz ekanligini tasdiqlash.	Убедиться, что аппарат исправен и готов к работе.	Confirm that the machine is sound and ready.
+stage.Wire.title	Payvand simini tekshirish	Проверка сварочной проволоки	Check the welding wire
+stage.Wire.goal	Sim g'altagi mavjudligi va uzatish mexanizmi sozligini ta'minlash.	Обеспечить наличие катушки и исправность механизма подачи.	Make sure there is wire and the feeder works.
+stage.CylinderSafety.title	CO2 balonining xavfsizligini tekshirish	Проверка безопасности баллона CO2	Check the CO2 cylinder
+stage.CylinderSafety.goal	Balon yiqilishi natijasidagi baxtsiz hodisalarning oldini olish.	Не допустить несчастного случая из-за падения баллона.	Prevent an accident from a falling cylinder.
+stage.Gas.title	Gaz bosimi va sarfini sozlash	Настройка давления и расхода газа	Set gas pressure and flow
+stage.Gas.goal	Chokni himoya qilish uchun me'yoriy gaz oqimini ta'minlash.	Обеспечить нормативный поток газа для защиты шва.	Provide the gas flow that shields the seam.
+stage.Mode.title	Payvandlash rejimini sozlash (V / A)	Настройка режима сварки (В / А)	Set the welding mode (V / A)
+stage.Mode.goal	Material qalinligi va birikma turiga mos rejimni o'rnatish.	Установить режим по толщине металла и типу соединения.	Set the mode for the plate thickness and the joint.
+stage.Parts.title	Detallarni tayyorlash va stendga joylashtirish	Подготовка деталей и установка на стенд	Prepare the parts and place them on the stand
+stage.Parts.goal	Detallarni topshiriqqa mos, qimirlamaydigan holatda joylashtirish.	Установить детали по заданию и закрепить.	Place the right parts and fix them.
+stage.Measure.title	Birinchi o'lchov nazorati	Первый измерительный контроль	First measurement check
+stage.Measure.goal	Joylashuvning chizmaga muvofiqligini payvandlashdan oldin tasdiqlash.	Подтвердить соответствие сборки чертежу до сварки.	Confirm the fit-up against the drawing before welding.
+stage.Tack.title	Prixvatka — vaqtinchalik payvandlash	Прихватка — временная сварка	Tack welds
+stage.Tack.goal	Detallarni asosiy payvandlashda siljishdan saqlash.	Не дать деталям сместиться при основной сварке.	Keep the parts from moving during the main weld.
+stage.Weld.title	Asosiy payvandlash	Основная сварка	Main weld
+stage.Weld.goal	Chokni texnik qo'llanmaga qat'iy rioya qilib bajarish.	Выполнить шов строго по технологии.	Make the seam exactly as the procedure says.
+stage.Quality.title	Yakuniy sifat nazorati	Итоговый контроль качества	Final quality check
+stage.Quality.goal	Chok sifatini standart talablarga muvofiqligini baholash.	Оценить качество шва по требованиям стандарта.	Judge the seam against the standard.
+stage.Cleanup.title	Ish joyini yig'ishtirish va yakunlash	Уборка рабочего места и завершение	Clear up and finish
+stage.Cleanup.goal	Ishni tartib-qoidalarga muvofiq yakunlash.	Завершить работу по правилам.	Finish the work by the rules.
+step.login.enter	Login va parol bilan tizimga kiring	Войдите с логином и паролем	Sign in with login and password
+step.login.practice	Amaliyotni tanlang	Выберите практику	Choose the practice
+step.login.brief	Chizma va topshiriq bilan tanishib, amaliyotni boshlang	Изучите чертёж и задание, начните практику	Read the drawing and the task, then begin
+step.journal.read	Yo'riqnomani o'qing va «tanishdim» belgisini qo'ying	Прочитайте инструкцию и отметьте «ознакомлен»	Read the instruction and tick the box
+step.journal.sign	Ruchka bilan jurnalga imzo qo'ying	Распишитесь ручкой в журнале	Sign the journal with the pen
+step.ppe.wear	Niqob, kurtka, qo'lqoplar va oyoq kiyimini kiying	Наденьте маску, куртку, перчатки и обувь	Put on the mask, jacket, gloves and boots
+step.ppe.hall	Ko'k eshik orqali sexga o'ting	Пройдите в цех через синюю дверь	Go to the hall through the blue door
+step.area.fire	Yong'in postini tekshiring	Проверьте пожарный пост	Check the fire point
+step.area.vent	Ventilyatsiyani yoqing	Включите вентиляцию	Switch the ventilation on
+step.area.clean	Ish joyidan yonuvchi narsalarni olib tashlang	Уберите горючие предметы с рабочего места	Remove flammable things from the workplace
+step.el.mains	Tarmoq kabelini ko'zdan kechiring	Осмотрите сетевой кабель	Inspect the mains cable
+step.el.torch	Gorelka shlangi va kabelini ko'zdan kechiring	Осмотрите шланг и кабель горелки	Inspect the torch hose and cable
+step.el.ground	«Massa» qisqichini stendga ulang	Подключите зажим «массы» к стенду	Clamp the earth cable to the stand
+step.pw.switch	Asosiy o'chirgich bilan qurilmani yoqing	Включите аппарат главным выключателем	Switch the machine on at the main switch
+step.pw.check	Panel indikatorlari va tutun yo'qligini tekshiring	Проверьте индикаторы панели и отсутствие дыма	Check the indicators and that there is no smoke
+step.wire.cover	G'altak qopqog'ini oching	Откройте крышку катушки	Open the spool cover
+step.wire.spool	Sim g'altagini tekshiring	Проверьте катушку проволоки	Check the wire spool
+step.wire.replace	Yangi g'altakni o'rnating	Установите новую катушку	Fit a new spool
+step.wire.tension	Rolik bosimini sozlang	Настройте прижим роликов	Set the roller pressure
+step.wire.feed	Simni gorelkagacha uzating (sim tugmasi)	Протяните проволоку до горелки (кнопка подачи)	Feed the wire to the torch (wire button)
+step.wire.close	Qopqoqlarni yoping	Закройте крышки	Close the covers
+step.cyl.chain	Balon zanjir bilan mahkamlanganini tekshiring	Проверьте крепление баллона цепью	Check that the cylinder is chained
+step.cyl.fasten	Balonni zanjir bilan mahkamlang	Закрепите баллон цепью	Chain the cylinder
+step.cyl.reg	Ventil va reduktor holatini tekshiring	Проверьте вентиль и редуктор	Check the valve and the regulator
+step.gas.open	Balon ventilini oching	Откройте вентиль баллона	Open the cylinder valve
+step.gas.pressure	Manometr bo'yicha bosimni tekshiring	Проверьте давление по манометру	Read the pressure on the gauge
+step.gas.swap	Rahbarga xabar bering va zaxira balonga o'ting	Сообщите руководителю и перейдите на запасной баллон	Report it and change to the spare cylinder
+step.gas.flow	Gaz sarfini me'yorga sozlang	Установите нормативный расход газа	Set the gas flow
+step.mode.voltage	Kuchlanishni (V) sozlang	Установите напряжение (В)	Set the voltage (V)
+step.mode.current	Tok kuchini (A) sozlang	Установите силу тока (А)	Set the current (A)
+step.mode.speed	Sim uzatish tezligini sozlang	Установите скорость подачи проволоки	Set the wire feed speed
+step.mode.confirm	Rejimni tasdiqlang	Подтвердите режим	Confirm the mode
+step.parts.pick	Chizmaga mos detallarni tanlang	Выберите детали по чертежу	Choose the parts that match the drawing
+step.parts.place	Detallarni stendga joylashtiring	Установите детали на стенд	Place the parts on the stand
+step.parts.clamp	Detallarni qisqichlar bilan mahkamlang	Закрепите детали зажимами	Fix the parts with the clamps
+step.meas.measure	Burchak va tirqishni o'lchang	Измерьте угол и зазор	Measure the angle and the gap
+step.meas.fix	Joylashuvni tuzating va qayta o'lchang	Исправьте сборку и измерьте снова	Correct the fit-up and measure again
+step.meas.confirm	O'lchov natijasini tasdiqlang	Подтвердите результат измерения	Confirm the measurement
+step.tack.mask	Himoya niqobini tushiring	Опустите защитную маску	Lower the welding mask
+step.tack.points	Belgilangan nuqtalarga prixvatka qo'ying	Поставьте прихватки в отмеченных точках	Tack at the marked points
+step.tack.measure	Joylashuvni qayta o'lchab tasdiqlang	Измерьте сборку повторно и подтвердите	Measure again and confirm
+step.weld.mask	Himoya niqobini tushiring	Опустите защитную маску	Lower the welding mask
+step.weld.arc	Yoyni yoqing	Зажгите дугу	Strike the arc
+step.weld.seam	Chokni oxirigacha uzluksiz yuriting	Ведите шов непрерывно до конца	Run the seam to the end without stopping
+step.weld.rest	Gorelkani joyiga qo'ying	Положите горелку на место	Put the torch back
+step.qc.visual	Chokni ko'zdan kechirib, nuqsonlarni belgilang	Осмотрите шов и отметьте дефекты	Inspect the seam and mark the defects
+step.qc.measure	Chok katetini shablon bilan o'lchang	Измерьте катет шва шаблоном	Measure the leg with the gauge
+step.qc.record	Natijani nazorat varag'iga kiriting	Внесите результат в контрольный лист	Enter the result in the check sheet
+step.cl.power	Qurilmani o'chiring	Выключите аппарат	Switch the machine off
+step.cl.gas	Balon ventilini yoping	Закройте вентиль баллона	Close the cylinder valve
+step.cl.tools	Asboblarni joyiga qo'ying	Положите инструменты на место	Put the tools back
+step.cl.waste	Chiqindilarni qutiga tashlang	Выбросьте отходы в контейнер	Put the waste in the bin
+step.area.remove	Yonuvchi lattani chiqindi qutisiga tashlang	Выбросьте горючую ветошь в контейнер	Put the oily rag in the bin
+inspect.title	KO'ZDAN KECHIRISH	ОСМОТР	INSPECTION
+inspect.ok	Soz	Исправно	In order
+inspect.fault	Nosoz	Неисправно	Faulty
+inspect.q.fire	O't o'chirgich joyida va sozmi?	Огнетушитель на месте и исправен?	Is the extinguisher in place and in order?
+inspect.q.area	Ish joyi tartibdami, yonuvchi narsalar yo'qmi?	Рабочее место в порядке, нет горючих предметов?	Is the workplace clear of flammable things?
+inspect.area.ok	Tartibda	В порядке	Clear
+inspect.area.fault	Yonuvchi narsa bor	Есть горючее	Something flammable
+inspect.q.mains	Tarmoq kabelining izolyatsiyasi butunmi?	Изоляция сетевого кабеля цела?	Is the mains cable's insulation intact?
+inspect.q.torch	Gorelka shlangi va kabeli butunmi?	Шланг и кабель горелки целы?	Are the torch hose and cable intact?
+inspect.q.panel	Indikatorlar me'yorda, tutun yoki kuygan hid yo'qmi?	Индикаторы в норме, нет дыма и запаха гари?	Indicators normal, no smoke or burning smell?
+inspect.q.spool	G'altakda sim yetarlimi?	Проволоки на катушке достаточно?	Is there enough wire on the spool?
+inspect.spool.ok	Yetarli	Достаточно	Enough
+inspect.spool.fault	Tugagan	Закончилась	Empty
+inspect.q.chain	Balon zanjir bilan mahkamlanganmi?	Баллон закреплён цепью?	Is the cylinder chained?
+inspect.chain.ok	Mahkamlangan	Закреплён	Chained
+inspect.chain.fault	Mahkamlanmagan	Не закреплён	Not chained
+inspect.q.reg	Ventil va reduktor soz, gaz sizmayaptimi?	Вентиль и редуктор исправны, утечки нет?	Valve and regulator sound, no leak?
+inspect.q.pressure	Manometrdagi balon bosimi me'yordami?	Давление в баллоне по манометру в норме?	Is the cylinder pressure on the gauge normal?
+inspect.pressure.ok	Me'yorda	В норме	Normal
+inspect.pressure.fault	Past	Низкое	Low
+found.generic	Nosozlik aniqlandi va xabar berildi.	Неисправность найдена, о ней сообщено.	The fault was found and reported.
+found.area	To'g'ri: ish joyida yonuvchi latta bor. Uni chiqindi qutisiga tashlang.	Верно: на рабочем месте горючая ветошь. Выбросьте её в контейнер.	Right: there is an oily rag at the workplace. Put it in the bin.
+found.mains	To'g'ri: kabel izolyatsiyasi shikastlangan. Rahbarga xabar berildi, kabel almashtirildi.	Верно: изоляция кабеля повреждена. Руководителю сообщено, кабель заменён.	Right: the cable's insulation is damaged. It was reported and the cable replaced.
+found.spool	To'g'ri: sim tugagan. Shkafdagi yangi g'altakni o'rnating.	Верно: проволока закончилась. Установите новую катушку из шкафа.	Right: the wire has run out. Fit the new spool from the cabinet.
+found.chain	To'g'ri: balon mahkamlanmagan. Zanjir ilgagini ikkinchi ustunga iling.	Верно: баллон не закреплён. Зацепите цепь за вторую стойку.	Right: the cylinder is loose. Hook the chain to the other post.
+found.pressure	To'g'ri: balonda bosim past. Rahbarga xabar bering va zaxira balonga o'ting.	Верно: давление в баллоне низкое. Сообщите руководителю и перейдите на запасной баллон.	Right: the cylinder is nearly empty. Report it and change to the spare one.
+missed.generic	Nosozlik e'tibordan chetda qoldi.	Неисправность не замечена.	A fault was overlooked.
+missed.area	Ish joyidagi yonuvchi latta e'tibordan chetda qoldi — yong'in xavfi.	Горючая ветошь на рабочем месте не замечена — риск пожара.	The oily rag at the workplace was overlooked — fire risk.
+missed.mains	Shikastlangan kabel aniqlanmadi.	Повреждённый кабель не обнаружен.	The damaged cable was not found.
+missed.spool	Sim tugagani aniqlanmadi.	Не замечено, что проволока закончилась.	The empty spool was not noticed.
+missed.chain	Balon mahkamlanmagani aniqlanmadi — baxtsiz hodisa xavfi. Baribir zanjirni iling.	Не замечено, что баллон не закреплён — риск несчастного случая. Всё равно зацепите цепь.	The loose cylinder was not noticed — risk of an accident. Hook the chain anyway.
+missed.pressure	Balondagi past bosim aniqlanmadi.	Низкое давление в баллоне не замечено.	The low cylinder pressure was not noticed.
+viol.falsealarm	Soz narsa nosoz deb baholandi: {0}	Исправное оценено как неисправное: {0}	Something sound was judged faulty: {0}
+viol.power.early	Elektr qismini tekshirmasdan qurilmani yoqishga urinish.	Попытка включить аппарат без проверки электрической части.	Tried to switch the machine on before checking the electrical side.
+viol.power.cable	Qurilma shikastlangan kabel bilan yoqildi — jiddiy xavfsizlik buzilishi.	Аппарат включён с повреждённым кабелем — серьёзное нарушение безопасности.	The machine was switched on with a damaged cable — a serious safety violation.
+viol.parts.wrong	Chizmaga mos kelmaydigan detal tanlandi.	Выбрана деталь, не соответствующая чертежу.	A part that does not match the drawing was chosen.
+viol.mode	{0}: {1} — tavsiya etilgan diapazondan tashqarida ({2}).	{0}: {1} — вне рекомендуемого диапазона ({2}).	{0}: {1} — outside the recommended range ({2}).
+viol.nomask	Yoy niqobsiz yoqildi — ko'z kuyishi xavfi.	Дуга зажжена без маски — риск ожога глаз.	The arc was struck without the mask — risk of arc eye.
+viol.nogas	Yoy himoya gazisiz yoqildi — chokda g'ovaklik hosil bo'ladi.	Дуга зажжена без защитного газа — в шве будут поры.	The arc was struck without shielding gas — the seam will be porous.
+viol.gas.loose	Mahkamlanmagan balon ventili ochildi — kritik xavfsizlik buzilishi.	Открыт вентиль незакреплённого баллона — критическое нарушение безопасности.	The valve of a loose cylinder was opened — a critical safety violation.
+viol.fire.slow	Yong'in juda kech o'chirildi.	Пожар потушен слишком поздно.	The fire was put out too late.
+fire.started	YONG'IN! Uchqundan latta yondi. Payvandlashni to'xtating va o't o'chirgich bilan o'chiring.	ПОЖАР! От искр загорелась ветошь. Прекратите сварку и потушите огнетушителем.	FIRE! Sparks set the rag alight. Stop welding and put it out with the extinguisher.
+fire.out	Yong'in o'chirildi. Ishni davom ettirish mumkin.	Пожар потушен. Можно продолжать работу.	The fire is out. You may continue.
+blocked.fire	Avval yong'inni o'chiring.	Сначала потушите пожар.	Put the fire out first.
+blocked.mask.notworn	Niqob kiyilmagan.	Маска не надета.	The mask is not being worn.
+blocked.spool.full	G'altakda sim bor: almashtirish shart emas.	На катушке есть проволока: менять не нужно.	There is wire on the spool: no need to change it.
+blocked.clamp.parts	Avval ikkala detalni stendga joylashtiring.	Сначала установите обе детали на стенд.	Place both parts on the stand first.
+blocked.parts.base	Avval asos plastinasini joylashtiring.	Сначала установите пластину основания.	Place the base plate first.
+blocked.meas.first	Avval o'lchov asbobi bilan o'lchang.	Сначала выполните измерение инструментом.	Measure with the tool first.
+blocked.meas.out	O'lchov natijasi tolerantlikdan tashqarida: joylashuvni tuzating va qayta o'lchang.	Результат вне допуска: исправьте сборку и измерьте снова.	The reading is out of tolerance: correct the fit-up and measure again.
+blocked.weld.early	Payvandlash hali mumkin emas: avval oldingi bosqichlarni yakunlang.	Сваривать ещё нельзя: сначала завершите предыдущие этапы.	No welding yet: finish the earlier stages first.
+blocked.weld.tackfirst	Avval prixvatka bajarilishi kerak (belgilangan nuqtalarda).	Сначала должны быть выполнены прихватки (в отмеченных точках).	Tack welds must be made first (at the marked points).
+blocked.weld.measure	Prixvatkadan so'ng joylashuvni qayta o'lchab tasdiqlang.	После прихваток измерьте сборку повторно и подтвердите.	After tacking, measure again and confirm.
+blocked.weld.done	Chok yakunlangan.	Шов завершён.	The seam is finished.
+blocked.qc.measure	Avval chokni uch nuqtada shablon bilan o'lchang.	Сначала измерьте шов шаблоном в трёх точках.	Measure the seam with the gauge at three places first.
+arc.nopower	Yoy yonmaydi: qurilma o'chiq.	Дуга не зажигается: аппарат выключен.	No arc: the machine is off.
+arc.noearth	Yoy yonmaydi: «massa» qisqichi ulanmagan.	Дуга не зажигается: зажим «массы» не подключён.	No arc: the earth clamp is not connected.
+arc.nowire	Yoy yonmaydi: sim gorelkagacha uzatilmagan.	Дуга не зажигается: проволока не подана к горелке.	No arc: the wire has not been fed to the torch.
+feed.nopower	Sim uzatilmaydi: qurilma o'chiq.	Проволока не подаётся: аппарат выключен.	No wire feed: the machine is off.
+feed.nospool	Sim uzatilmaydi: g'altak bo'sh.	Проволока не подаётся: катушка пуста.	No wire feed: the spool is empty.
+feed.slips	Uzatish xatosi: rolik bosimi kam, sim sirg'alyapti.	Ошибка подачи: слабый прижим роликов, проволока проскальзывает.	Feed error: roller pressure too low, the wire slips.
+feed.crushed	Uzatish xatosi: rolik bosimi ortiqcha, sim ezilyapti.	Ошибка подачи: чрезмерный прижим роликов, проволока деформируется.	Feed error: roller pressure too high, the wire is crushed.
+meas.out	O'lchov: burchak {0}°, tirqish {1} mm — tolerantlikdan tashqarida. Tik plastinani qayta o'rnating.	Измерение: угол {0}°, зазор {1} мм — вне допуска. Переустановите вертикальную пластину.	Reading: angle {0}°, gap {1} mm — out of tolerance. Re-seat the standing plate.
+gas.swapped	Rahbarga xabar berildi; zaxira balon ulandi.	Руководителю сообщено; подключён запасной баллон.	Reported; the spare cylinder is connected.
+act.gas.swap	Xabar berish va zaxira balonga o'tish	Сообщить и перейти на запасной баллон	Report and change to the spare cylinder
+act.mode.confirm	Rejimni tasdiqlash	Подтвердить режим	Confirm the mode
+act.meas.confirm	O'lchovni tasdiqlash	Подтвердить измерение	Confirm the measurement
+act.mask.down	Niqobni tushirish	Опустить маску	Lower the mask
+act.mask.up	Niqobni ko'tarish	Поднять маску	Raise the mask
+act.qc.record	Natijani kiritish	Внести результат	Enter the result
+act.qc.visual	Ko'rik natijasini tasdiqlash	Подтвердить результат осмотра	Confirm the inspection
+read.tension	Rolik bosimi: {0}   (me'yor {1})	Прижим роликов: {0}   (норма {1})	Roller pressure: {0}   (norm {1})
+read.gas	Bosim {0} MPa   •   sarf {1} l/min   (me'yor {2})	Давление {0} МПа   •   расход {1} л/мин   (норма {2})	Pressure {0} MPa   •   flow {1} l/min   (norm {2})
+read.mode	{0} V   •   {1} A   •   sim {2} m/min	{0} В   •   {1} А   •   проволока {2} м/мин	{0} V   •   {1} A   •   wire {2} m/min
+read.off	Qurilma o'chiq	Аппарат выключен	The machine is off
+read.fit	Burchak {0}°   •   tirqish {1} mm	Угол {0}°   •   зазор {1} мм	Angle {0}°   •   gap {1} mm
+read.tacks	Prixvatkalar: {0} / {1}	Прихватки: {0} / {1}	Tacks: {0} / {1}
+read.weld	Chok {0}%   •   masofa {1} mm   •   burchak {2}°	Шов {0}%   •   вылет {1} мм   •   угол {2}°	Seam {0}%   •   stick-out {1} mm   •   angle {2}°
+read.seam	Chok: {0}%	Шов: {0}%	Seam: {0}%
+qc.title	Nazorat varag'i — vizual ko'rik	Контрольный лист — визуальный осмотр	Check sheet — visual inspection
+qc.hint	Chokda ko'rgan nuqsonlaringizni belgilang (yo'q bo'lsa, bo'sh qoldiring).	Отметьте дефекты, которые видите на шве (если их нет, оставьте пустым).	Tick the defects you see on the seam (leave empty if there are none).
+defect.Porosity	G'ovaklik (teshikchalar)	Пористость	Porosity
+defect.BurnThrough	Kuydirib yuborish	Прожог	Burn-through
+defect.LackOfFusion	Yetarli kirmaslik	Непровар	Lack of fusion
+defect.Uneven	Notekis chok	Неравномерный шов	Uneven seam
+defect.Spatter	Ortiqcha sachrash	Чрезмерное разбрызгивание	Excessive spatter
+deduct.seam	Chok sifati: {0}%	Качество шва: {0}%	Seam quality: {0}%
+deduct.speed	Yurish tezligi vaqtning {0}% qismida me'yordan tashqarida bo'ldi.	Скорость сварки была вне нормы {0}% времени.	Travel speed was out of range {0}% of the time.
+deduct.stickout	Sopladan masofa vaqtning {0}% qismida me'yordan tashqarida bo'ldi.	Вылет был вне нормы {0}% времени.	Stick-out was out of range {0}% of the time.
+deduct.angle	Gorelka burchagi vaqtning {0}% qismida me'yordan tashqarida bo'ldi.	Угол горелки был вне нормы {0}% времени.	The torch angle was out of range {0}% of the time.
+deduct.restarts	Chok ko'p marta uzilib, qayta boshlandi.	Шов многократно прерывался и начинался заново.	The seam was interrupted and restarted many times.
+deduct.qc	Vizual ko'rikda {0} ta nuqson noto'g'ri baholandi.	При осмотре неверно оценено дефектов: {0}.	{0} defects were judged wrongly in the inspection.
+deduct.leg	Chok kateti {0} mm — me'yordan tashqarida ({1} mm).	Катет шва {0} мм — вне нормы ({1} мм).	Seam leg {0} mm — outside the norm ({1} mm).
+guide.tension.front	Oldingi rolik vinti	Передний винт прижима	Front roller knob
+guide.tension.rear	Orqa rolik vinti	Задний винт прижима	Rear roller knob
+guide.turn	{0} — burang	{0}: поверните	{0}: turn it
+guide.value	hozir {0}  •  kerak {1}	сейчас {0}  •  нужно {1}	now {0}  •  needed {1}
+knob.hint	Vintni ushlab turib bilagingizni burang yoki shu qo'ldagi joystikni o'ngga (ko'paytirish) / chapga (kamaytirish) bosing.	Удерживая винт, поверните кисть или отклоните стик этой руки вправо (больше) / влево (меньше).	Hold the knob and twist your wrist, or push the same hand's thumbstick right (more) / left (less).
+ppe.hint.ray	Himoya vositasiga nur bilan ko'rsatib, trigger tugmasini bosing — u o'zi kiyiladi. Yoki ushlab, tanangizga olib boring.	Наведите луч на средство защиты и нажмите курок — оно наденется само. Или возьмите и поднесите к телу.	Point the ray at a piece of equipment and pull the trigger to put it on. Or grab it and bring it to your body.
+guide.valve.open	Balon ventili — oching	Вентиль баллона: откройте	Cylinder valve: open it
+guide.remeasure	Burchak o'lchagich — qayta o'lchang	Угольник: измерьте снова	Square: measure again
+meas.reseated	Plastina qayta o'rnatildi. Endi burchak o'lchagichni olib, chokka qayta qo'ying.	Пластина переустановлена. Теперь возьмите угольник и снова приложите его к шву.	The plate is re-seated. Now take the square and put it to the seam again.
